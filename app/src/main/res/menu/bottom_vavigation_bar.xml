@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_bar_first_fragment"
+        android:icon="@android:drawable/checkbox_on_background"
+        android:title="First" />
+    <item
+        android:id="@+id/nav_bar_second_fragment"
+        android:icon="@drawable/ic_second"
+        android:title="Second" />
+    <item
+        android:id="@+id/nav_bar_third_fragment"
+        android:icon="@android:drawable/btn_dialog"
+        android:title="Third" />
+    <item
+        android:id="@+id/nav_bar_close_app"
+        android:icon="?android:attr/alertDialogIcon"
+        android:title="Closse" />
+
+
+</menu>
